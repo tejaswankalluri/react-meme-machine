@@ -26,6 +26,11 @@ a:hover{
 .btn--block:hover{
     background-color: rgb(240, 240, 240);
 }
+.load_more{
+  width: 30%;
+  margin: 50px auto;
+  background-color: rgb(210, 253, 215);
+}
 .cards {
   display: flex;
   flex-wrap: wrap;
